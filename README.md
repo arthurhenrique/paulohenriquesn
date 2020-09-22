@@ -2,7 +2,7 @@
 
 Software Engineer
 
-[![Instagram Badge](https://img.shields.io/badge/-@paulocoding-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/paulohs_n)](https://instagram.com/paulohs_n) 
+[![Instagram Badge](https://img.shields.io/badge/-@paulohs_n-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/paulohs_n)](https://instagram.com/paulohs_n) 
 [![Gmail Badge](https://img.shields.io/badge/-business.leop@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:business.leop@gmail.com)](mailto:business.leop@gmail.com)
 
 <div>
